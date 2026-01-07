@@ -67,26 +67,9 @@ nav a:visited {
 
 main {
     margin-top: 12rem;
-    width: 60%;
+    width: 80%;
     background-color: white;
 
     border: 5px solid black;
     border-radius: 5px;
-}
-
-main div {
-    margin: 1.5rem;
-}
-
-main p {
-    font-size: 1.2rem;
-    line-height: 1.2rem;
-    padding: 1rem;
-}
-
-hr {
-    width: 90%;
-    background-color: black;
-    height: 1px;
-    margin: auto;
 }

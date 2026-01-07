@@ -67,26 +67,87 @@ nav a:visited {
 
 main {
     margin-top: 12rem;
-    width: 60%;
+    width: 80%;
     background-color: white;
 
     border: 5px solid black;
     border-radius: 5px;
 }
 
-main div {
-    margin: 1.5rem;
+main h2 {
+    text-align: center;
+    margin-top: 1rem;
+    text-decoration: underline;
+    margin-bottom: 1rem;
 }
 
-main p {
-    font-size: 1.2rem;
-    line-height: 1.2rem;
-    padding: 1rem;
-}
-
-hr {
-    width: 90%;
-    background-color: black;
-    height: 1px;
+main table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 95%;
     margin: auto;
+    line-height: 2.5rem;
+}
+
+main table th, td {
+    border: 2px solid black;
+}
+
+main td {
+    padding-left: 0.5rem;
+}
+
+main #logboek table thead {
+    background-color: lightgray;
+}
+
+main hr {
+    border: 2px solid black;
+    width: 97.5%;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+main #keuzevraag, #situering, #voorbeelden {
+    margin: 2rem;
+    margin-top: 1rem;
+}
+
+main #keuzevraag p {
+    margin-bottom: 2rem;
+}
+
+main #ontwikkeling hr {
+    border: 1px solid black;
+    width: 75%;
+}
+
+main #ontwikkeling h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+main #ontwikkeling table {
+    text-align: left;
+}
+
+main #ontwikkeling table td:first-child{
+    width: 150px;
+}
+
+main #ontwikkeling table th {
+    padding-left: 0.5rem;
+}
+
+main #ontwikkeling table th, td {
+    border: 1px solid black;
+}
+
+main #situering h4 {
+    margin-top: 2rem;
+}
+
+main #voorbeelden h4 {
+    margin-top: 2rem;
 }
