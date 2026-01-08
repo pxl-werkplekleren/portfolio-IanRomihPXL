@@ -151,3 +151,13 @@ main #situering h4 {
 main #voorbeelden h4 {
     margin-top: 2rem;
 }
+
+main #opdrachten th {
+    width: 200px;
+}
+
+main #opdrachten td:nth-child(2) {
+    width: 500px;
+    line-height: 1.5rem;
+    padding: 10px;
+}
