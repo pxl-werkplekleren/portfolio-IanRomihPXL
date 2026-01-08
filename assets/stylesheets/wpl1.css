@@ -161,3 +161,27 @@ main #opdrachten td:nth-child(2) {
     line-height: 1.5rem;
     padding: 10px;
 }
+
+main #reflectie h3 {
+    margin-left: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+main #reflectie h4 {
+    margin-left: 2rem;
+}
+
+main #reflectie p {
+    margin-left: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+main #situering p {
+    margin-bottom: 1rem;
+}
+
+main #ontwikkeling img {
+    margin-left: 2rem;
+    width: 1100px;
+}
