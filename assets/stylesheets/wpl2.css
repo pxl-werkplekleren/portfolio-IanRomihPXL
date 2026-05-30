@@ -73,3 +73,53 @@ main {
     border: 5px solid black;
     border-radius: 5px;
 }
+
+main hr {
+    border: 1px solid black;
+    width: 75%;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 1rem;
+    text-decoration: underline;
+    margin-bottom: 1rem;
+}
+
+main h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+main h4 {
+    text-align: left;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+main p {
+    margin: 0.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+main table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: 2rem;
+}
+
+main table td {
+    border: 2px solid black;
+    width: 50%;
+    height: 5rem;
+}
+
+main table h5 {
+    margin-left: 1rem;
+}
